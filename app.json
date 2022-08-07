@@ -1,5 +1,5 @@
 {
-  "name": "Start on Heroku: v2ray",
+  "name": "V2U",
   "description": "Go Getting Started Example v2ray App",
   "keywords": [
     "getting-started",
@@ -7,6 +7,6 @@
     "sample",
     "example"
   ],
-  "website": "http://github.com/xuiv/v2ray-heroku",
-  "repository": "http://github.com/xuiv/v2ray-heroku"
+  "website": "http://github.com/sha081/v2u",
+  "repository": "http://github.com/sha081/v2u"
 }
